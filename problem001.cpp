@@ -10,7 +10,7 @@ void problem1()
       sum += i;
     }
   }
-  std::cout << "The solution to problem 1 is: "<< sum << std::endl;
+  std::cout << "The solution to problem 1 is: " << sum << std::endl;
 }
 
 
